@@ -27,3 +27,5 @@ Modo 2 para colaborar
 ## Josselin Cruz
 
 ## Adan Escamilla
+
+## Roberto Rodriguez Diaz
