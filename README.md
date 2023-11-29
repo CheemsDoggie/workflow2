@@ -25,3 +25,5 @@ Modo 2 para colaborar
 ## Karen Orozco
 
 ## Josselin Cruz
+
+## Adan Escamilla
