@@ -1,5 +1,6 @@
 # workflow2
-Modo  2 para colaborar
+
+Modo 2 para colaborar
 
 # Commits:
 
@@ -20,3 +21,5 @@ Modo  2 para colaborar
 ## 8. Elian nu¤o Mora
 
 ## Antonio Lopez
+
+## Karen Orozco
