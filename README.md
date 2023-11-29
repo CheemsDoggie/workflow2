@@ -18,3 +18,5 @@ Modo  2 para colaborar
 ## 7. Brandon Oropeza
 
 ## 8. Elian nu¤o Mora
+
+## Antonio Lopez
