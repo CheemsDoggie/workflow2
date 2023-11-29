@@ -29,3 +29,5 @@ Modo 2 para colaborar
 ## Adan Escamilla
 
 ## Roberto Rodriguez Diaz
+
+## Nancy Padilla
