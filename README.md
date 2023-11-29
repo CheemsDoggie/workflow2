@@ -23,3 +23,5 @@ Modo 2 para colaborar
 ## Antonio Lopez
 
 ## Karen Orozco
+
+## Josselin Cruz
