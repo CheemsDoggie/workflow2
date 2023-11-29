@@ -3,20 +3,18 @@ Modo  2 para colaborar
 
 # Commits:
 
-## Abraham Estrada
+## 1. Abraham Estrada
 
-## Kimberly Trejo
+## 2. Kimberly Trejo
 
-## Jennifer Damaso
+## 3. Jennifer Damaso
 
-## Alejandro W/H
+## 4. Alejandro W/H
 
-## Escobedo Rojo
+## 5. Escobedo Rojo
 
-## Jesus Hernandez RUIZ hola
+## 6. Jesus Hernandez RUIZ hola
 
-<<<<<<< HEAD
-## Brandon Oropeza
-=======
-## Elian nu¤o Mora
->>>>>>> 0f51c29ac42bd03c47c7e61ebe3ea166e0cbf67c
+## 7. Brandon Oropeza
+
+## 8. Elian nu¤o Mora
