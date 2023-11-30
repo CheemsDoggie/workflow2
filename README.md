@@ -33,3 +33,5 @@ Modo 2 para colaborar
 ## Nancy Padilla
 
 ## KENIA JIMENEZ 
+
+## Bojorges Romero Eddy Abraham 
